@@ -1,0 +1,23 @@
+{
+  "name": "node-blockchain",
+  "version": "1.0.0",
+  "description": "Building a cryptocurrency and blockchain from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herikaniugu/node-blockchain.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Cryptocurrency"
+  ],
+  "author": "Heri Kaniugu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herikaniugu/node-blockchain/issues"
+  },
+  "homepage": "https://github.com/herikaniugu/node-blockchain#readme"
+}
