@@ -1,2 +1,6 @@
 # Cryptocurrency-Coin
-Building a cryptocurrency and blockchain.
+Building your own Blockchain.
+
+Dependecies 
+Install Node .
+
